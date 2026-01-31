@@ -4,6 +4,10 @@ A machine learning based IPL win probability prediction app built using Python a
 ## Live Demo
 https://ipl-win-probability-predictor-aaapb7psgtcqwyffgb5appt.streamlit.app/
 
+## 📸 App Preview
+![IPL Win Probability Predictor](app_screenshot.png)
+
+
 ## Tech Stack
 - Python
 - Streamlit
